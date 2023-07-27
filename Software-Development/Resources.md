@@ -28,3 +28,11 @@
 ## Living off the land
 * To evade the blue guys. Used the Telegram one and worked just fine.
     * [https://lolol.farm/](https://lolol.farm/)
+
+## Bypass AV/EDR
+* Bypass those app blockers.
+    * [https://github.com/tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
+    * [https://github.com/TheD1rkMtr/PE-Obfuscator](https://github.com/TheD1rkMtr/PE-Obfuscator)
+    * [https://mgeeky.tech/protectmytooling/](https://mgeeky.tech/protectmytooling/)
+    * [https://github.com/fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
+    * [https://github.com/optiv/Mangle](https://github.com/optiv/Mangle)
