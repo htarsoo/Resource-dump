@@ -1,5 +1,5 @@
 # Resource-dump
-A list of resources that helped me build my knowledge in cyber security and were useful during Pentest and Red Team operations.
+A list of resources that helped me build my knowledge in cyber security and were useful during Pentest and Red Team operations. For educational purpose only.
 
 ## CVE Repositories
 * [https://github.com/nomi-sec/PoC-in-GitHub/](https://github.com/nomi-sec/PoC-in-GitHub/)
