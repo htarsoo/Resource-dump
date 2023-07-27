@@ -14,6 +14,10 @@
 ## Direct System calls and Indirect System calls
 * [https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
 
+## Software samples
+* Some samples for you to analyze and learn. Remember to use a VM with no internet connection.
+    * [VXUNDERGROUND](https://www.vx-underground.org/#E:/root)
+
 ## Software development in Golang
 * Golang tutorial
     * [https://go.dev/learn/](https://go.dev/learn/)
