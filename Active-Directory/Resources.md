@@ -7,6 +7,10 @@
 * Fantastic website that got me started on Active Directory.
     * [https://zer1t0.gitlab.io/posts/attacking_ad/#what-is-active-directory](https://zer1t0.gitlab.io/posts/attacking_ad/#what-is-active-directory)
 
+## Digital Forensics and Intrusion Reports
+* DFIR reports that you can read to learn about Domain compromise.
+    * [https://thedfirreport.com/](https://thedfirreport.com/)
+
 ## Active Directory software for enumeration
 * Some tools that I have used to enumerate environments
     * [CrackMapExec](https://github.com/mpgn/CrackMapExec) - One of the best tools out there for enumeration, gaining a foothold and post exploitation. Make sure to support the developer!
