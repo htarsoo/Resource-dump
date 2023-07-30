@@ -38,6 +38,7 @@
 * Bypass those app blockers.
     * [https://github.com/tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
     * [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation/tree/main](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation/tree/main)
+    * [Hiding Meterpreter](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023) - To teach you a thing or two about obfuscation.
     * [https://github.com/TheD1rkMtr/PE-Obfuscator](https://github.com/TheD1rkMtr/PE-Obfuscator)
     * [https://mgeeky.tech/protectmytooling/](https://mgeeky.tech/protectmytooling/)
     * [https://github.com/fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
