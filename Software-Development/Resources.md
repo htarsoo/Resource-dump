@@ -28,6 +28,7 @@
 * I am going to share some basic resources here but there is much more to infrastructure. Your creativity is your limit.
     * [https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
     * [Tunneling solutions](https://github.com/anderspitman/awesome-tunneling) - To serve your server to the world.
+    * [https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/](https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/)
 
 ## Living off the land
 * To evade the blue guys. Used the Telegram one and worked just fine.
