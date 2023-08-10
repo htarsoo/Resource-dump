@@ -12,6 +12,7 @@ A list of resources that helped me build my knowledge in cyber security and were
     * [https://podalirius.net/en/](https://podalirius.net/en/)
     * [https://mrd0x.com/](https://mrd0x.com/)
     * [https://hackmag.com/category/security/](https://hackmag.com/category/security/)
+    * [https://elliotonsecurity.com/](https://elliotonsecurity.com/)
 
 ## Tool dump
 * A bunch of software that you can browse. Do note that I have not used most of those tools and the only open-source tools that I have used so far are found in the individual sections. Some of these tools might not even be usable due to extensive logging but you can analyze them to learn some things or two and develop alternative tooling.
