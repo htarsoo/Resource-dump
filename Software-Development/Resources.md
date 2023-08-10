@@ -3,6 +3,10 @@
     * [MIT Lecture on C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/resources/lecture-notes/)
     * [Windows Programming in C++](https://learn.microsoft.com/en-us/cpp/windows/overview-of-windows-programming-in-cpp?view=msvc-170)
 
+## How the CPU runs instructions
+* A short but packed lesson on CPU basics.
+    * [https://cpu.land/](https://cpu.land/)
+
 ## Packer tutorial
 * Will make you more comfortable with C and teach you how a packer works. A packer is used to reduce the size of your executable.
     * [https://github.com/frank2/packer-tutorial](https://github.com/frank2/packer-tutorial)

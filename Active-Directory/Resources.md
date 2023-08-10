@@ -10,6 +10,7 @@
 ## Digital Forensics and Intrusion Reports
 * DFIR reports that you can read to learn about Domain compromise.
     * [https://thedfirreport.com/](https://thedfirreport.com/)
+    * [https://thehackernews.com/2023/08/understanding-active-directory-attack.html](https://thehackernews.com/2023/08/understanding-active-directory-attack.html)
 
 ## Active Directory software for enumeration
 * Some tools that I have used to enumerate environments
