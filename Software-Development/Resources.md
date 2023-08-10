@@ -32,6 +32,7 @@
 * I am going to share some basic resources here but there is much more to infrastructure. Your creativity is your limit.
     * [https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
     * [Tunneling solutions](https://github.com/anderspitman/awesome-tunneling) - To serve your server to the world.
+    * [https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/](https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/)
 
 ## Living off the land
 * To evade the blue guys. Used the Telegram one and worked just fine.
@@ -40,6 +41,8 @@
 ## Bypass AV/EDR
 * Bypass those app blockers.
     * [https://github.com/tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
+    * [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation/tree/main](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation/tree/main)
+    * [Hiding Meterpreter](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023) - To teach you a thing or two about obfuscation.
     * [https://github.com/TheD1rkMtr/PE-Obfuscator](https://github.com/TheD1rkMtr/PE-Obfuscator)
     * [https://mgeeky.tech/protectmytooling/](https://mgeeky.tech/protectmytooling/)
     * [https://github.com/fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)

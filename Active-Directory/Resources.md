@@ -7,6 +7,11 @@
 * Fantastic website that got me started on Active Directory.
     * [https://zer1t0.gitlab.io/posts/attacking_ad/#what-is-active-directory](https://zer1t0.gitlab.io/posts/attacking_ad/#what-is-active-directory)
 
+## Learning Azure
+* Although I do not have much experience with attacking Azure AD, I am going to share some resource here that can hopefully help you.
+   * [Azure-Threat-Research-Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
+   * [https://github.com/Kyuu-Ji/Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) - List of software and guides to help you.
+
 ## Digital Forensics and Intrusion Reports
 * DFIR reports that you can read to learn about Domain compromise.
     * [https://thedfirreport.com/](https://thedfirreport.com/)
