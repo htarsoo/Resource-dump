@@ -29,9 +29,17 @@ A list of resources that helped me build my knowledge in cyber security and were
     * [https://github.com/0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet)
     * [https://gist.github.com/z0rs/e1c640e2892cb6737602fec5d5496480](https://gist.github.com/z0rs/e1c640e2892cb6737602fec5d5496480)
     * [Azure Cheatsheet](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
+    * [https://arttoolkit.github.io/](https://arttoolkit.github.io/)
+
+## Mindmaps
+* Bunch of Mindmaps
+    *[Mindmap repo](https://github.com/Ignitetechnologies/Mindmap/tree/main)
 
 ## Active Directory
 * [Resources Specific to Windows AD](Active-Directory/Resources.md)
 
 ## Software Development
 * [Funny software development](Software-Development/Resources.md)
+
+## Mobile App pentest
+* [Resources specific to Mobile App Pentest](MobApp-Pentest/Resources.md)
