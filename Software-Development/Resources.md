@@ -2,6 +2,7 @@
 * I rarely used C and C++ when writing payloads but it is good to learn them as there are many PoCs out there that implement Red Team tactics written in either C or C++.
     * [MIT Lecture on C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/resources/lecture-notes/)
     * [Windows Programming in C++](https://learn.microsoft.com/en-us/cpp/windows/overview-of-windows-programming-in-cpp?view=msvc-170)
+    * [Hook WinAPI using C++](https://www.ired.team/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c++)
 
 ## How the CPU runs instructions
 * A short but packed lesson on CPU basics.
@@ -31,6 +32,7 @@
 ## Infrastructure
 * I am going to share some basic resources here but there is much more to infrastructure. Your creativity is your limit.
     * [https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
+    * [https://ppn.snovvcrash.rocks/red-team/infrastructure](https://ppn.snovvcrash.rocks/red-team/infrastructure)
     * [Tunneling solutions](https://github.com/anderspitman/awesome-tunneling) - To serve your server to the world.
     * [https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/](https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/)
 
