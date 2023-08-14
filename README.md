@@ -33,7 +33,7 @@ A list of resources that helped me build my knowledge in cyber security and were
 
 ## Mindmaps
 * Bunch of Mindmaps
-    *[Mindmap repo](https://github.com/Ignitetechnologies/Mindmap/tree/main)
+    * [Mindmap repo](https://github.com/Ignitetechnologies/Mindmap/tree/main)
 
 ## Active Directory
 * [Resources Specific to Windows AD](Active-Directory/Resources.md)
