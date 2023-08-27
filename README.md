@@ -31,7 +31,7 @@ A list of resources that helped me build my knowledge in cyber security and were
     * [Azure Cheatsheet](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
     * [https://arttoolkit.github.io/](https://arttoolkit.github.io/)
 
-## DEFCON 2023 Talks' slides
+## DEFCON 2023 slides
 * [Defcon talks](https://www.blackhat.com/us-23/briefings/schedule/index.html)
 
 ## Mindmaps
