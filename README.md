@@ -21,6 +21,7 @@ A list of resources that helped me build my knowledge in cyber security and were
 
 ## Miscellaneous cheatsheets
 * A bunch of cheatsheets.
+    * [https://otterhacker.github.io/](https://otterhacker.github.io/)
     * [https://book.hacktricks.xyz/welcome/readme](https://book.hacktricks.xyz/welcome/readme)
     * [https://exploit-notes.hdks.org/exploit/windows/active-directory/](https://exploit-notes.hdks.org/exploit/windows/active-directory/)
     * [https://cheatsheet.haax.fr/](https://cheatsheet.haax.fr/)
