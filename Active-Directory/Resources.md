@@ -20,16 +20,19 @@
 ## Active Directory software for enumeration
 * Some tools that I have used to enumerate environments
     * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - One of the best tools out there for enumeration, gaining a foothold and post exploitation. Make sure to support the developer!
+    * [NetExec](https://github.com/Pennyw0rth/NetExec) - Since CrackMapExec's developer mpgn has stopped maintaining the project, this new tool is supposed to continue the work. I have not used this new one yet since I have been focusing on web app pentests lately but I will include it here for reference.
     * [Powershell Port Scanner](https://github.com/nccgroup/PS2)
 
 ## Active Directory software for initial compromise
 * [Pretender](https://github.com/RedTeamPentesting/pretender) - LLMNR and IPV6 spoofer to help you obtain net-NTLM hashes. Works with other tools such as the Impacket suite. Check out their [blog](https://blog.redteam-pentesting.de/2022/introducing-pretender/#why-pretender-advantages-and-usage-scenarios) for more info.
 * [Impacket suite](https://github.com/fortra/impacket) - Bunch of Python scripts that interact with Windows protocols like SMB to help you compromise hosts. Check out this [link](https://www.secureauth.com/labs/open-source-tools/impacket/) for information regarding each script.
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - CME can also be used for initial compromise using some of its modules such as PetitPotam.
+* [NetExec](https://github.com/Pennyw0rth/NetExec)
 
 ## Active Directory Post Compromise
 * [Some commands for enumeration](https://www.daronwolff.com/windows-enumeration-post-explotation/)
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Can be used to check which devices you can access and dump creds.
+* [NetExec](https://github.com/Pennyw0rth/NetExec)
 * [Where to find further creds](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
 * [Checklist for Windows privilege escalation](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation)
 * [Abusing AD Certificate Services](https://github.com/grimlockx/ADCSKiller)
