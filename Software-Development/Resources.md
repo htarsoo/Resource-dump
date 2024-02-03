@@ -52,6 +52,7 @@
     * [https://mgeeky.tech/protectmytooling/](https://mgeeky.tech/protectmytooling/)
     * [https://github.com/fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
     * [https://github.com/optiv/Mangle](https://github.com/optiv/Mangle)
+    * [https://github.com/dobin/avred](https://github.com/dobin/avred)
 
 ## Miscellaneous tutorials
 * Some tutorials I found laying here and there.
