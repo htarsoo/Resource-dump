@@ -19,6 +19,9 @@
 ## Direct System calls and Indirect System calls
 * [https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
 
+## Quick history and evolution of implants
+* [https://pre.empt.blog/2023/maelstrom-4-writing-a-c2-implant](https://pre.empt.blog/2023/maelstrom-4-writing-a-c2-implant)
+
 ## Software samples
 * Some samples for you to analyze and learn. Remember to use a VM with no internet connection.
     * [VXUNDERGROUND](https://www.vx-underground.org/#E:/root)
