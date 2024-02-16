@@ -38,3 +38,4 @@
 * [Abusing AD Certificate Services](https://github.com/grimlockx/ADCSKiller)
 * [64 methods to run mimikatz](https://redteamrecipe.com/64-Methods-For-Execute-Mimikatz/)
 * [Deploying a VM from the command line](https://hackmag.com/security/windows-mitm/) - Useful if you compromised an endpoint via Phishing and want to deploy a VM to easily deploy tools like the impacket suite.
+* [Ping Castle](https://github.com/vletoux/pingcastle) - A C# tool to check AD permissions. Especially useful for internal teams looking to harden their AD.
