@@ -49,4 +49,4 @@ A list of resources that helped me build my knowledge in cyber security and were
 * [Resources specific to Mobile App Pentest](MobApp-Pentest/Resources.md)
 
 ## Web and API Pentesting
-* Placeholder
+* [Resources related to Web and API Pentesting. Some of these resources, like Burp, will be used for dynamic analysis of mobile app](WebAPI-Pentest/Resources.md)
