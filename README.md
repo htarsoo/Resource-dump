@@ -47,3 +47,6 @@ A list of resources that helped me build my knowledge in cyber security and were
 
 ## Mobile App pentest
 * [Resources specific to Mobile App Pentest](MobApp-Pentest/Resources.md)
+
+## Web and API Pentesting
+* Placeholder
