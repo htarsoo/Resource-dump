@@ -9,6 +9,7 @@ A list of resources that helped me build my knowledge in cyber security and were
 ## Awesome blogposts
 * Great blogposts to learn stuffs.
     * [https://s3cur3th1ssh1t.github.io/](https://s3cur3th1ssh1t.github.io/)
+    * [https://googleprojectzero.blogspot.com/p/about-project-zero.html](https://googleprojectzero.blogspot.com/p/about-project-zero.html)
     * [https://podalirius.net/en/](https://podalirius.net/en/)
     * [https://mrd0x.com/](https://mrd0x.com/)
     * [https://hackmag.com/category/security/](https://hackmag.com/category/security/)
